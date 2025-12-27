@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+networkx
+openpyxl
+numpy
+stmol
+py3Dmol
+ipython_genutils
